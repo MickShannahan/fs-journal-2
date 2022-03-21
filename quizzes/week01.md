@@ -3,7 +3,7 @@
 **1.** In the terminal, what is the command `cd` used for?
 <!-- enter you answer in the space below -->
 ```
-choose domain
+change domain
 ```
 
 **2.** In the terminal, what is the command `mkdir` used for?
@@ -15,19 +15,19 @@ Make Directory
 **3.** What is the `\<html>\</html>` tag in a document?
 <!-- enter you answer in the space below -->
 ```
-
+It is the top level (root) element of your HTML document
 ```
 
 **4.** What does `HTML` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+HyperText Markup Language
 ```
 
 **5.** What Does `CSS` stand for?
 <!-- enter you answer in the space below -->
 ```
-
+Cascading Style Sheets
 ```
 
 **6.** What are the three components that makeup a `CSS` rule? <br> Example:
@@ -38,7 +38,7 @@ Make Directory
 ```
 <!-- enter you answer in the space below -->
 ```
-
+a selector, property, value.
 ```
 
 **7.** What property would you change if you wanted to make a font **Bold**?
