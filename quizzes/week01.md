@@ -44,7 +44,9 @@ a selector, property, value.
 **7.** What property would you change if you wanted to make a font **Bold**?
 <!-- enter you answer in the space below -->
 ```
-
+.class{
+  font-weight: bold
+}
 ```
 
 **8.** In what tag does the majority of your code belong?
