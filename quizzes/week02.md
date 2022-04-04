@@ -67,15 +67,24 @@ Document Object Model, <html>
 **9.** What are the `9` ECMAScript types as defined by MDN?
 <!-- enter you answer in the space below -->
 ```
-
+Primitive values
+Boolean type
+Null type
+Undefined type
+Number type
+BigInt type
+String type
+Symbol type
+Objects 
 ```
 **10.** When it comes to functions or methods, what is the difference between a `parameter` and an `argument`?
 <!-- enter you answer in the space below -->
 ```
-
+parameters are the names listed in the function's definition
+arguments are the real values passed to the function
 ```
 **11.** What is the difference between a `primitive` value and a `reference` value?
 <!-- enter you answer in the space below -->
 ```
-
+primitive values store the actual values, reference values store the addresses of the objects
 ```
