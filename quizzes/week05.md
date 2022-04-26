@@ -42,16 +42,16 @@ let Schema = mongoose.schema
 **7.** What is middleware?
 <!-- enter you answer in the space below -->
 ```
-Middleware is used to 
+Middleware is used to add a large framework to a project without needing to grab very specific parts
 ```
 **8.** The ______ pipeline delivers information from the client while the ______ pipeline returns it. Fill in the blanks. 
 <!-- enter you answer in the space below -->
 ```
-
+continuous integration, continuous delivery
 ```
 **9.** 
 Demonstrate the pattern that is used to include a request query with the client's `HTTP` request providing the property `tag` and the value `winter`.
 <!-- enter you answer in the space below -->
 ```
-
+?get tag=winter
 ```
